@@ -16,4 +16,4 @@ The dataset is provided in two text files: "fashion mnist data.txt" containing t
 - For t-SNE, the parameters for initialization, iterations, and stopping criteria are carefully chosen. The resulting visualizations are analyzed and discussed.
 
 ### Contribution and Support
-Contributions and feedback are welcome to enhance the functionality and usability of the dimensionality reduction techniques explored in this project. For any questions or assistance, please reach out to the project contributors. Thank you for your interest and support as we continue to develop and improve our understanding of handling high-dimensional data for classification tasks.
+Contributions and feedback are welcome to enhance the functionality and usability of the dimensionality reduction techniques explored in this project. For any questions or assistance, please reach out to baha.yuzlu@gmail.com. Thank you for your interest and support as we continue to develop and improve our understanding of handling high-dimensional data for classification tasks.
